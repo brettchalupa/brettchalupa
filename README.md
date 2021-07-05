@@ -2,7 +2,7 @@
 
 My name's Brett! I'm a Lead Software Engineer at [Big Cartel](https://www.bigcartel.com). I specialize in full-stack web and API development using Ruby on Rails, Stencil.js, and GraphQL. When I'm not working on code for my day job, I enjoy [making screencasts](https://youtube.com/c/Monoso), writing, cooking, and running.
 
-- 😄 Pronouns: he/him or they/them
+- 😄 Pronouns: they/them
 - 🔭 I’m currently working on refreshing Big Cartel's shop customizer
 - 🌱 I’m currently learning Stencil.js testing techniques
 - 📫 How to reach me: [Twitter](https://twitter.com/brettchalupa)
