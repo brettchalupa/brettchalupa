@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-My name's Brett! I'm a Lead Software Engineer at [Big Cartel](https://www.bigcartel.com). I specialize in full-stack web and API development using Ruby on Rails, Stencil.js, and GraphQL. When I'm not working on code for my day job, I enjoy [making screencasts](https://youtube.com/c/Monoso), writing, cooking, and running.
+My name's Brett! I'm a software engineer. I specialize in full-stack web and API development using Ruby on Rails, Stencil.js, and GraphQL. When I'm not working on code for my day job, I enjoy [making screencasts](https://youtube.com/c/Monoso), writing, cooking, and running.
 
 - 😄 Pronouns: they/them
 - 🔭 I’m currently working on refreshing Big Cartel's shop customizer
