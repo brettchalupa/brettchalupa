@@ -4,8 +4,7 @@ My name's Brett! I'm a software engineer. I specialize in full-stack web and API
 
 - 😄 Pronouns: they/them
 - 🔭 I’m currently working coding screencasts
-- 🌱 I’m currently learning game development using Haxe
-- 📫 How to reach me: [Twitter](https://twitter.com/brettchalupa)
+- 🌱 I’m currently learning TypeScript
 - ⚡ Fun fact: I won a chili cooking contest when I was 17, but you had to be 18 or older, so I used my older brother's name
 
 [Learn more on my website!](https://www.brettchalupa.com)
