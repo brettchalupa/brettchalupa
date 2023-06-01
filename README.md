@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-My name's Brett! I'm a software engineer. I specialize in full-stack web and API development using Ruby on Rails, Stencil.js, and GraphQL. When I'm not working on code for my day job, I enjoy making [games](https://brettchalupa.itch.io) and [screencasts](https://youtube.com/@brettcodes), reading, hiking, and cooking.
+My name's Brett! I'm a software engineer. I specialize in full-stack web and API development using Ruby on Rails, web componments, and GraphQL. When I'm not working on code for my day job, I enjoy making [games](https://brettchalupa.itch.io) and [screencasts](https://youtube.com/@brettcodes), reading, hiking, and cooking.
 
 - 🔭 I’m currently working on [making and finishing small games](https://brettchalupa.itch.io/)
 - 🌱 I’m currently learning Godot
