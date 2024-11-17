@@ -1,7 +1,9 @@
 ### Howdy! 🤠
 
-My name's Brett! I'm a software engineer. I specialize in full-stack web and API development using Ruby on Rails, TypeScript, web componments, and GraphQL.
+My name's Brett! I'm a software engineer. I specialize in full-stack web and API development using Ruby on Rails, TypeScript, web components, and GraphQL. I'm also a hobbyist game developer.
 
-- 🌱 I’m currently making games with Rust! 🦀
+✍️ I’m currently writing [a book on how to make games for Playdate](https://leanpub.com/playdatebook)!
 
-[See more of my projects on my website.](https://www.brettchalupa.com/works)
+[Play my games on itch.io.](https://brettchalupa.itch.io/)
+
+[See more of my creative projects on my website.](https://www.brettchalupa.com/works)
