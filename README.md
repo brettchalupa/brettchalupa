@@ -5,3 +5,5 @@ I'm a software engineer and hobbyist game developer. I like writing code with Ty
 I’m focused on [Usagi, a 2D game engine for rapid prototyping](https://codeberg.org/brettchalupa/usagi)!
 
 Read my writing about software at [brettcodes.com](https://brettcodes.com).
+
+My modern open source work is done at [Codeberg][https://codeberg.org/brettchalupa/).
