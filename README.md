@@ -6,4 +6,4 @@ I’m focused on [Usagi, a 2D game engine for rapid prototyping](https://codeber
 
 Read my writing about software at [brettcodes.com](https://brettcodes.com).
 
-My modern open source work is done at [Codeberg][https://codeberg.org/brettchalupa/).
+My modern open source work is done at [Codeberg](https://codeberg.org/brettchalupa/).
